@@ -1,0 +1,6 @@
+{
+  "name": "8. Sınıf Üslü Sayılar Eş Bulma & Kart Tasarım Atölyesi",
+  "description": "8. sınıf matematik üslü sayılar eş bulma oyunu, ipuçlu ve arkası çözümlü pekiştirme kartları ve kart tasarım atölyesi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
